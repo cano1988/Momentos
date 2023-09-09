@@ -1,4 +1,6 @@
 # Vamos a crear un diccionario con los colores
+#Integrantes : Andres Cano Rave  - Alejandro Quiroz
+
 
 colores={}
 
